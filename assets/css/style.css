@@ -1,0 +1,29 @@
+/*header with home and subscribe button*/
+
+header {
+    display: flex;
+}
+header > h1 {
+    flex: 1 0 auto;
+}
+
+/*banner images and cover text*/
+
+#toy-banner {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+
+}
+
+#toy-image {
+height: 600px;
+width: 100%;
+background: url('../images/train-header.png');
+
+}
+
+#cover-text {
+    color:blueviolet;
+}
