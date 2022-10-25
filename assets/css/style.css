@@ -29,9 +29,9 @@ header > h1 {
     position: relative;
     background: url(https://thumbs.dreamstime.com/b/cartoon-forest-landscape-stones-hand-draw-illustration-135774982.jpg);
     background-size:contain;
-    border: 2px solid;
+    border: 4px solid;
 }
-div#toy-image {
+div #toy-image {
     display: block;
     position: absolute;
     animation: moveTrain 20s forwards;
@@ -59,7 +59,7 @@ div#toy-image {
     padding-top: 7px;
     padding-left: 10px;
 
-    border: 2px solid #000;
+    border: 4px solid #000;
 
     background-color: rgba(255, 255, 255, 0.841);
 
