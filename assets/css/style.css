@@ -177,5 +177,28 @@ footer > ul {
     background-color: aquamarine;
     height:1200px;
     width: 100%;
+
+}
+
+#image-inner-box {
+    background-color: aliceblue;
+    height: 1000px;
+    width: 100%;
+    padding: 15px 20px 15px 20px; 
     
+}
+
+#baby-in-nest {
+    height: 30%;
+    margin-left: 10%;
+}
+
+#ultrasound {
+    height: 30%;
+    margin-left: 10%;
+}
+
+#boy-playing {
+    height:30%;
+    margin-left: 7%;
 }
