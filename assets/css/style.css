@@ -6,14 +6,15 @@ body {
 /*header with home and subscribe button*/
 
 header {
+    height: 30px;
+    width: 100%;
     display: flex;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 15px;
-    margin-right: 15px;
+    padding: 15px 20px 15px 20px;
+    background-color: bisque;
 }
 header > h1 {
     flex: 1 0 auto;
+    text-align: center;
 }
 
 /*banner images and cover text*/
