@@ -27,7 +27,7 @@ header > h1 {
     width: 100%;
     display: block;
     position: relative;
-    background: url(https://thumbs.dreamstime.com/b/cartoon-forest-landscape-stones-hand-draw-illustration-135774982.jpg);
+    background: url('../images/cartoon-forest-landscape.jpg');
     background-size:contain;
     border: 3px solid;
 }
