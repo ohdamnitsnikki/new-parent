@@ -3,18 +3,32 @@
 body {
     height: 100vh;
 }
-/*header with home and subscribe button*/
 
-header {
+/*menu*/
+
+#menu {
     height: 30px;
     width: 100%;
-    display: flex;
     padding: 15px 20px 15px 20px;
     background-color: bisque;
 }
-header > h1 {
-    flex: 1 0 auto;
-    text-align: center;
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+.left {
+    float:left;
+}
+
+.right {
+    float: right;
 }
 
 /*banner images and cover text*/
@@ -103,29 +117,17 @@ div #toy-image {
 
 }
 
-/*menu*/
+/*header with home and subscribe button*/
 
-#menu {
+header {
     height: 30px;
     width: 100%;
+    display: flex;
     padding: 15px 20px 15px 20px;
     background-color: bisque;
 }
-
-#menu li {
-    float: left;
-    list-style-type: none;
-    
-}
-
-#menu a {
-    text-decoration: none;
-}
-
-.left {
-    float:left;
-}
-
-.right {
-    float: right;
+header > h1 {
+    flex: 1 0 auto;
+    text-align: center;
+    font-size: 150%;
 }
