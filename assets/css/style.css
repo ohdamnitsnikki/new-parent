@@ -7,6 +7,10 @@ body {
 
 header {
     display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 header > h1 {
     flex: 1 0 auto;
@@ -41,7 +45,7 @@ div #toy-image {
     bottom: 0;
     width: 600px;
 }
-
+/*animation*/
 @keyframes moveTrain {
     from  {
        transform: translateX(100vw);
@@ -62,21 +66,23 @@ div #toy-image {
     border: 3px solid #000;
 
     background-color: rgba(255, 255, 255, 0.841);
-    animation:fadeIn 1s forwards;
-    opacity: 1;
-    animation-delay: 8s;
+    animation:fadeIn 3s forwards;
+    animation-delay: 7s;
+    opacity: 0;
     top: 15px;
     right: 20px;
     bottom: 5px;
     position: absolute;
 
 }
+/*animation*/
+
 @keyframes fadeIn {
     from {
-        opacity: 0;
+        opacity: 1;
     }
     to {
-        opacity: 1;
+        opacity: 2;
     }
 
 }
@@ -94,4 +100,31 @@ div #toy-image {
     font-style: Arial, ssans-serif;
     font-size: 140;
 
+}
+
+/*menu*/
+
+#menu {
+    height: 30px;
+    width: 100%;
+    padding: 15px 20px 15px 20px;
+    background-color: bisque;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+.left {
+    float:left;
+}
+
+.right {
+    float: right;
 }
