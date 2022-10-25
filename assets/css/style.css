@@ -11,9 +11,12 @@ body {
     width: 100%;
     padding: 15px 20px 15px 20px;
     background-color: bisque;
+    display: flex;
 }
 
-
+#menu ul {
+    flex: 1 0 auto;
+}
 #menu li {
     float: left;
     list-style-type: none;
