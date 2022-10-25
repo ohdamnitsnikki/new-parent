@@ -4,7 +4,7 @@ body {
     height: 100vh;
 }
 
-/*menu*/
+/*menu and navigation links*/
 
 #menu {
     height: 30px;
@@ -13,9 +13,12 @@ body {
     background-color: bisque;
 }
 
+
 #menu li {
     float: left;
     list-style-type: none;
+    letter-spacing: 4px;
+    color:black;
     
 }
 
@@ -23,12 +26,8 @@ body {
     text-decoration: none;
 }
 
-.left {
-    float:left;
-}
-
-.right {
-    float: right;
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 /*banner images and cover text*/
@@ -78,7 +77,8 @@ div #toy-image {
     padding-top: 7px;
     padding-left: 10px;
 
-    border: 3px solid #000;
+    border: 3px solid #706363;
+    box-shadow: rgba(221, 220, 220, 0.8);
 
     background-color: rgba(255, 255, 255, 0.841);
     animation:fadeIn 3s forwards;
@@ -127,7 +127,10 @@ header {
     background-color: bisque;
 }
 header > h1 {
+    
     flex: 1 0 auto;
     text-align: center;
-    font-size: 150%;
+    font-size: 200%;
+    margin: 0 auto;
+
 }
