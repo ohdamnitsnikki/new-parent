@@ -12,13 +12,6 @@ body {
 
 /*menu and navigation links*/
 
-nav #menu {
-    display: flex;
-    justify-content: space-between;
-    width:100%;
-    align-items: center;
-}
-
 #menu {
     height: 75px;
     width: 100%;
@@ -26,6 +19,8 @@ nav #menu {
     background-color: bisque;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    
 }
 
 #menu ul {
@@ -38,6 +33,12 @@ nav #menu {
     display: block;
     margin-left: 100px;
     
+}
+nav div > a {
+    color:#000033;
+}
+ul > li > a {
+    color:#000033;
 }
 
 #menu a {
@@ -128,7 +129,7 @@ div #toy-image {
 
 }
 
-#cover-text > h4 {
+#cover-text > p {
     color:#000033;
     font-style: Arial, ssans-serif;
     font-size: 140;
