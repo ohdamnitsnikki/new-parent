@@ -1,3 +1,8 @@
+/*body*/
+
+body {
+    height: 100vh;
+}
 /*header with home and subscribe button*/
 
 header {
@@ -17,28 +22,52 @@ header > h1 {
 
 }
 
-#toy-image {
-height: 100px;
-width: 100%;
-background: url('../images/train-header.png') no-repeat center center;;
+.toy-container {
+    height: 250px;
+    width: 100%;
+    display: block;
+    position: relative;
+    background: url(https://thumbs.dreamstime.com/b/cartoon-forest-landscape-stones-hand-draw-illustration-135774982.jpg);
+    background-size:contain;
+    border: 2px solid;
+}
+div#toy-image {
+    display: block;
+    position: absolute;
+    animation: moveTrain 20s forwards;
+    background: url('../images/train-header.png') no-repeat center center;
+    background-size: contain;
+    height: 200px;
+    bottom: 0;
+    width: 600px;
+}
 
+@keyframes moveTrain {
+    from  {
+       transform: translateX(100vw);
+
+    }
+    to {
+        transform:translateX(0%);
+    }
 }
 
 #cover-text  {
-    width: 250px;
-    height: 250px;
+    width: 230px;
+    height: 220px;
 
-    padding-top: 10px;
+    padding-top: 7px;
     padding-left: 10px;
 
-    background-color: rgba(43, 209, 173, 0.6);
+    border: 2px solid #000;
 
-    bottom: 30px;
-    left: 20px;
+    background-color: rgba(255, 255, 255, 0.841);
+
+    top: 15px;
+    right: 20px;
+    bottom: 5px;
 
     position: absolute;
-
-
 
 }
 
