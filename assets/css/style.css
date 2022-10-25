@@ -153,3 +153,20 @@ header > h1 {
     margin: 0 auto;
 
 }
+
+/*Footer and social links*/
+
+footer {
+    height: 75px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+
+footer > ul {
+    list-style-type: none; 
+    display: flex;
+    margin-left: 20px;
+    justify-content: space-between;
+    padding: 15px 20px 15px 20px;
+
+}
