@@ -156,6 +156,39 @@ header > h1 {
 
 }
 
+/*Image section*/
+/*Change locations on images later*/
+
+#image-outer-box {
+    height:230px;
+    width: 100%;
+
+}
+
+#image-inner-box {
+    background-color: aliceblue;
+    height: 230px;
+    width: 100%;
+    padding: 15px 20px 15px 20px; 
+    
+}
+
+#baby-in-nest {
+    height: 100%;
+}
+
+#ultrasound {
+    height: 100%;
+}
+
+#boy-playing {
+    height:100%;
+}
+
+#baby-feet {
+    height:100%;
+}
+
 /*Footer and social links*/
 
 footer {
@@ -171,37 +204,4 @@ footer > ul {
     justify-content: space-between;
     padding: 15px 20px 15px 20px;
 
-}
-
-/*Image section*/
-/*Change locations on images later*/
-
-#image-outer-box {
-    background-color: aquamarine;
-    height:700px;
-    width: 100%;
-
-}
-
-#image-inner-box {
-    background-color: aliceblue;
-    height: 650px;
-    width: 100%;
-    padding: 15px 20px 15px 20px; 
-    
-}
-
-#baby-in-nest {
-    height: 30%;
-    margin-left: 10%;
-}
-
-#ultrasound {
-    height: 30%;
-    margin-left: 10%;
-}
-
-#boy-playing {
-    height:30%;
-    margin-left: 7%;
 }
