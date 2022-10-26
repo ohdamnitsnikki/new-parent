@@ -201,7 +201,8 @@ footer > ul {
     list-style-type: none; 
     display: flex;
     margin-left: 20px;
-    justify-content: space-between;
+    justify-content:space-evenly;
     padding: 15px 20px 15px 20px;
 
 }
+
