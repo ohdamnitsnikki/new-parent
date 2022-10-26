@@ -40,11 +40,33 @@
         
     </header>
 
-    <section>
-        <div>
-           
+    <section class="form-section">
 
+        <div>
+            <h3>Don't want to miss any new tips? Enter your details to get updates on your email!</h3>
         </div>
+
+        <form action="POST">
+            <label for="fname">First Name</label>
+                <input id="fname" name="first_name" type="text" class="text-input" required>
+            
+            <label for="email">Email Address</label>
+                <input id="email" name="email_address" type="text" class="text-input" required>
+
+                <label for="pregnant">Pregnant</label>
+            <input id="pregnant" type="radio" name="kids-status" value="pregnant" required>
+            
+            <label for="parent">A Parent</label>
+            <input id="parent" type="radio" name="kids-status" value="parent">
+            
+            <label for="both">Both</label>
+            <input id="both" type="radio" name="kids-status" value="both">
+
+            <input type="submit" value="Subscribe">
+            
+
+
+        </form>
 
     </section>
            
