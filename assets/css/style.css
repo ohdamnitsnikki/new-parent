@@ -189,6 +189,27 @@ header > h1 {
     height:100%;
 }
 
+/*Baby care*/
+
+#baby-care {
+    height:fit-content;
+    width: 100%;
+    background-color: #bababa;
+}
+
+.baby-care {
+    text-align: center;
+    border: 2px solid #000;
+    padding: 5px 5px 5px 5px;
+}
+
+.baby-care li {
+    list-style-type: none;
+    letter-spacing: 4px;
+    color:black;
+    display: block;
+    margin-left: 100px;
+}
 /*Footer and social links*/
 
 footer {
