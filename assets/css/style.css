@@ -7,7 +7,7 @@
 body {
     height: 100vh;
     margin: 0;
-    overflow: y:scroll;
+    overflow-y: scroll;
 }
 
 /*menu and navigation links*/
@@ -67,6 +67,7 @@ ul > li > a {
     background: url('../images/cartoon-forest-landscape.jpg');
     background-size:contain;
     border: 3px solid;
+    overflow: hidden;
 }
 div #toy-image {
     display: block;
@@ -77,6 +78,7 @@ div #toy-image {
     height: 200px;
     bottom: 0;  
     width: 600px;
+    
 }
 /*animation*/
 @keyframes moveTrain {
@@ -172,17 +174,18 @@ footer > ul {
 }
 
 /*Image section*/
+/*Change locations on images later*/
 
 #image-outer-box {
     background-color: aquamarine;
-    height:1200px;
+    height:700px;
     width: 100%;
 
 }
 
 #image-inner-box {
     background-color: aliceblue;
-    height: 1000px;
+    height: 650px;
     width: 100%;
     padding: 15px 20px 15px 20px; 
     
