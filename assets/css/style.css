@@ -6,8 +6,10 @@
 
 body {
     height: 100vh;
+    width:100%;
     margin: 0;
     overflow-y: scroll;
+    background-image: url(/assets/images/background.jpg);
 }
 
 /*menu and navigation links*/
@@ -16,7 +18,7 @@ body {
     height: 75px;
     width: 100%;
     padding: 15px 20px 15px 20px;
-    background-color: bisque;
+    background-color: rgba(255, 255, 255, 0.841);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -145,7 +147,7 @@ header {
     width: 100%;
     display: flex;
     padding: 15px 20px 15px 20px;
-    background-color: bisque;
+    background-color: rgba(255, 255, 255, 0.841);
 }
 header > h1 {
     
@@ -166,7 +168,7 @@ header > h1 {
 }
 
 #image-inner-box {
-    background-color: aliceblue;
+    background-color: rgba(255, 255, 255, 0.841);
     height: 230px;
     width: 100%;
     padding: 15px 20px 15px 20px; 
@@ -194,7 +196,7 @@ header > h1 {
 #baby-care {
     height:fit-content;
     width: 100%;
-    background-color: #bababa;
+    background-color: rgba(255, 255, 255, 0.841);
 }
 
 .baby-care {
@@ -215,7 +217,7 @@ header > h1 {
 footer {
     height: 75px;
     width: 100%;
-    background-color: antiquewhite;
+    background-color: rgba(255, 255, 255, 0.841);
 }
 
 footer > ul {
