@@ -9,7 +9,6 @@ body {
     width:100%;
     margin: 0;
     overflow-y: scroll;
-    background-image: url(/assets/images/background.jpg);
 }
 
 /*menu and navigation links*/
@@ -212,6 +211,13 @@ header > h1 {
     display: block;
     margin-left: 100px;
 }
+
+/*Must Haves*/
+
+#must-haves > h3 {
+    display: flex;
+}
+
 /*Footer and social links*/
 
 footer {
@@ -225,7 +231,7 @@ footer > ul {
     display: flex;
     margin-left: 20px;
     justify-content:space-evenly;
-    padding: 15px 20px 15px 20px;
+    padding: 25px 20px 15px 20px;
 
 }
 
