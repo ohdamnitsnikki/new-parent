@@ -196,29 +196,12 @@ header > h1 {
     height:fit-content;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.841);
-}
-
-#left-about {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
-    
-}
-
-#right-about {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
+    display:flex;
 }
 
 hr {
     width: 100%;
     margin: 5px 0;
-}
-
-#center-about {
-    width: 33%;
-    margin: 0 auto;
 }
 
 #baby-care  li {
@@ -227,6 +210,10 @@ hr {
     color:black;
     display: block;
     margin-left: 100px;
+}
+
+.baby-content {
+    width:33%;
 }
 
 /*Must Haves*/
