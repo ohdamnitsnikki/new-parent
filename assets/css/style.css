@@ -231,9 +231,10 @@ hr {
     width:fit-content;
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
-    margin: 40px;
+    margin: 20px 15px 20px 15px;
     padding: 20px;
     box-shadow: 10px 7px 8px 7px #888888d9;
+    letter-spacing: 4px;
 }
 .box-content-img > a {
     text-align: center;
@@ -246,11 +247,11 @@ hr {
 }
 
 #pilatesball {
-    height: 400px;
+    height: 250px;
 }
 
 #minifom {
-    height: 400px;
+    height: 250px;
 }
 
 #carrier-shawl {
@@ -271,11 +272,15 @@ footer {
 }
 
 footer > ul {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
     list-style-type: none; 
     display: flex;
     margin-left: 20px;
     justify-content:space-evenly;
     padding: 25px 20px 15px 20px;
+
 
 }
 
