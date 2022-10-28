@@ -201,8 +201,9 @@ header > h1 {
 }
 
 hr {
-    width: 50%;
-    margin: 0 auto;
+    max-width: 200px;
+    display:block;
+    margin: 5px 0;
 }
 
 #baby-care  li {
@@ -210,7 +211,6 @@ hr {
     letter-spacing: 4px;
     color:black;
     display: block;
-    margin-left: 100px;
 }
 
 .baby-content {
