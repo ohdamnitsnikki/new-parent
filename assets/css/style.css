@@ -240,9 +240,9 @@ hr {
     margin: 20px 15px 20px 15px;
     padding: 20px;
     box-shadow: 10px 7px 8px 7px #888888d9;
-    justify-items: center;
-    
+    justify-content: space-evenly;
 }
+
 .box-content-img > a {
     text-align: center;
     text-decoration: none;
