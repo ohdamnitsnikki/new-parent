@@ -218,7 +218,7 @@ hr {
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
     margin: 40px;
-    box-shadow: 10px 7px 8px 7px #888888;
+    box-shadow: 10px 7px 8px 7px #888888d9;
 }
 
 .box-content h3 {
@@ -227,12 +227,38 @@ hr {
 
 /*Must Haves*/
 
+.box-content-img {
+    width:fit-content;
+    flex: 1 0 auto;
+    background-color: rgba(133, 114, 114, 0.24);
+    margin: 40px;
+    padding: 20px;
+    box-shadow: 10px 7px 8px 7px #888888d9;
+}
+.box-content-img > a {
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+}
+
 #must-haves > h3 {
     display: flex;
 }
 
-.must-haves {
+#pilatesball {
     height: 400px;
+}
+
+#minifom {
+    height: 400px;
+}
+
+#carrier-shawl {
+    height: 200px;
+}
+
+#nursing-pillow {
+    height: 200px;
 }
 
 
