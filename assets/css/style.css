@@ -216,6 +216,10 @@ hr {
     width:33%;
 }
 
+.baby-content h3 {
+    text-align: center;
+}
+
 /*Must Haves*/
 
 #must-haves > h3 {
