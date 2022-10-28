@@ -227,6 +227,12 @@ hr {
 
 /*Must Haves*/
 
+.text-section h2 {
+    text-align: center;
+    padding: 1px 15px;
+    line-height: 1.3;
+}
+
 .box-content-img {
     width:fit-content;
     flex: 1 0 auto;
@@ -234,7 +240,8 @@ hr {
     margin: 20px 15px 20px 15px;
     padding: 20px;
     box-shadow: 10px 7px 8px 7px #888888d9;
-    letter-spacing: 4px;
+    justify-items: center;
+    
 }
 .box-content-img > a {
     text-align: center;
@@ -245,7 +252,10 @@ hr {
 #must-haves > h3 {
     display: flex;
 }
+.box-content-img > p {
+    letter-spacing: 4px;
 
+}
 #pilatesball {
     height: 250px;
 }
