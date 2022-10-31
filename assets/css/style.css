@@ -201,6 +201,7 @@ header > h1 {
 ul {
     padding-inline-start: 25px;
     padding-inline-end: 10px;
+    margin-inline-start: -3px;
 }
 
 hr {
@@ -243,16 +244,19 @@ hr {
     margin: 20px 15px 20px 15px;
     padding: 20px;
     box-shadow: 10px 7px 8px 7px #888888d9;
-    justify-content: space-evenly;
 }
 
 .img-p {
     display: flex;
     align-items: center;
+    padding-right: 2px;
+}
+
+.img-p > p {
+    margin-left: 15px;
 }
 
 .box-content-img > a {
-    text-align: center;
     text-decoration: none;
   
 }
