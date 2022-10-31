@@ -93,11 +93,10 @@ div #toy-image {
 }
 
 #cover-text  {
-    width: 230px;
-    height: 225px;
-
-    padding-top: 1px;
-    padding-left: 10px;
+    width: 30%;
+    height: 80%;
+    
+    padding: 2px 10px 2px 10px;
 
     border: 3px solid #706363;
     box-shadow: rgba(221, 220, 220, 0.8);
