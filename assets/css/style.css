@@ -95,7 +95,7 @@ div #toy-image {
 #cover-text  {
     width: 30%;
     height: 80%;
-    
+
     padding: 2px 10px 2px 10px;
 
     border: 3px solid #706363;
@@ -196,6 +196,11 @@ header > h1 {
     width: 100%;
     background-color: rgba(255, 255, 255, 0.841);
     display:flex;
+}
+
+ul {
+    padding-inline-start: 25px;
+    padding-inline-end: 10px;
 }
 
 hr {
