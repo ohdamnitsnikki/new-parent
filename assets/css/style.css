@@ -320,12 +320,14 @@ footer > ul {
 
 label, input {
     letter-spacing: 4px;
-    padding-left: 20px;
+    padding-left: 10px;
     
 }
 
 input button {
     align-self: center;
+
+    /*come back here later to fix the button*/
 }
 
 /* Media queries */
