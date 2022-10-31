@@ -211,7 +211,7 @@ hr {
     margin: 5px 0;
 }
 
-.text-section  li {
+.text-section  li, p {
     list-style-type: none;
     letter-spacing: 4px;
     color:black;
