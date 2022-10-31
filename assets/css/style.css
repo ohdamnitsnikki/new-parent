@@ -318,6 +318,16 @@ footer > ul {
 
 }
 
+label, input {
+    letter-spacing: 4px;
+    padding-left: 20px;
+    
+}
+
+input button {
+    align-self: center;
+}
+
 /* Media queries */
 
 /* For larger to medium screens size from 1200px wide and down */
