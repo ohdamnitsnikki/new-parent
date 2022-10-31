@@ -233,7 +233,7 @@ hr {
 }
 
 .box-content-img {
-    width:fit-content;
+    width:40%;
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
     margin: 20px 15px 20px 15px;
@@ -244,6 +244,7 @@ hr {
 
 .img-p {
     display: flex;
+    align-items: center;
 }
 
 .box-content-img > a {
