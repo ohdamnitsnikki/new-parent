@@ -61,7 +61,7 @@ ul > li > a {
 }
 
 .toy-container {
-    height: 250px;
+    height: 55vh;
     width: 100%;
     display: block;
     position: relative;
