@@ -242,10 +242,14 @@ hr {
     justify-content: space-evenly;
 }
 
+.child-content{
+    display: flex;
+}
+
 .box-content-img > a {
     text-align: center;
     text-decoration: none;
-    display: flex;
+  
 }
 
 #must-haves > h3 {
