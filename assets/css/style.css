@@ -355,10 +355,20 @@ input button {
 
     .box-content-img {
         max-width:100%;
+        
     }    
+
+    .must-haves-img {
+        margin: 0 auto;
+        display:block;
+
+    }
+    }
 
     .must-haves-img-minifom {
         width: 37%;
+        margin: 0 auto;
+        display: block;
     }
 
     .img-p {
