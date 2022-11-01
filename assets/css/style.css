@@ -263,20 +263,9 @@ hr {
     letter-spacing: 4px;
 
 }
-#pilatesball {
-    height: 250px;
-}
 
-#minifom {
-    height: 250px;
-}
-
-#carrier-shawl {
-    height: 200px;
-}
-
-#nursing-pillow {
-    height: 200px;
+.must-haves-img {
+    width:100%;
 }
 
 /*tips and tricks*/
@@ -368,10 +357,15 @@ input button {
         max-width:100%;
     }    
 
+    .must-haves-img-minifom {
+        width: 37%;
+    }
+
     .img-p {
         display:block;
         padding: 15px 20px 15px 20px;
     }
+
     #menu li {
         margin-left:2px;
     }
