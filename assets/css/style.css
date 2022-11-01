@@ -183,7 +183,7 @@ header > h1 {
     height:fit-content;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.841);
-    display:flex;
+    
 }
 
 ul, .text-section p {
@@ -226,8 +226,13 @@ hr {
     line-height: 1.3;
 }
 
+.content-box1, .content-box2 {
+    display:flex;
+
+}
+
 .box-content-img {
-    max-width:40%;
+    max-width: 40%;
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
     margin: 20px 15px 20px 15px;
