@@ -208,7 +208,8 @@ hr {
 }
 
 .box-content {
-    width:25%;
+    height:auto;
+    max-width:25%;
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
     margin: 40px;
@@ -228,7 +229,7 @@ hr {
 }
 
 .box-content-img {
-    width:40%;
+    max-width:40%;
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
     margin: 20px 15px 20px 15px;
@@ -329,7 +330,7 @@ input button {
 @media screen and (max-width: 1200px) {
     .box-content {
     height:fit-content;
-    width: 100%;
+    max-width: 80%;
     background-color: rgba(255, 255, 255, 0.841);
     flex-direction: row;
     }
@@ -348,15 +349,6 @@ input button {
     #toy-container {
         width:fit-content;
         height:100%;
-    }
-
-    #image-inner-box {
-        flex-direction: column;
-    }
-
-    .form {
-        flex-direction: column;
-        column-count: 1;
     }
 }
 
