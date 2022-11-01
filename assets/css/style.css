@@ -285,7 +285,11 @@ hr {
     height: 200px;
 }
 
+/*tips and tricks*/
 
+.box-content img {
+    width: 60%;
+}
 /*Footer and social links*/
 
 footer {
@@ -340,4 +344,26 @@ input button {
     background-color: rgba(255, 255, 255, 0.841);
     flex-direction: row;
     }
+
+    #menu {
+        width:100%;
+        height:fit-content;
+        display:flex;
+        justify-content: space-evenly;
+    }
+
+    #cover-text {
+        width:50%;
+    }
+
+    #toy-container {
+        width:fit-content;
+        height:100%;
+    }
+
+    #image-outer-box {
+        flex-direction: column;
+        column-count: 1;
+    }
+
 }
