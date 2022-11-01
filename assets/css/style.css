@@ -174,7 +174,8 @@ header > h1 {
 
 .front-photo {
     height:auto;
-    max-width: 40%;
+    max-width: 60%;
+    display:block;
 }
 
 /*Baby care*/
@@ -212,6 +213,7 @@ hr {
     background-color: rgba(133, 114, 114, 0.24);
     margin: 40px;
     box-shadow: 0px 0px 8px 1px #888888d9;
+    padding: 15px 20px 15px 20px;
 }
 
 .box-content h3 {
@@ -281,7 +283,8 @@ hr {
 /*tips and tricks*/
 
 .box-content img {
-    width: 60%;
+    width: 70%;
+    padding-left: 28%;
 }
 /*Footer and social links*/
 
@@ -356,6 +359,19 @@ input button {
 
     #menu li {
         margin-left:2px;
+    }
+
+    .content-box1, .content-box2 {
+        display:block;
+    
+    }
+
+    #image-inner-box {
+        display:block;
+    }
+
+    .social-links {
+        padding-left:10px;
     }
 }
 
