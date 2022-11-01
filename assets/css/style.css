@@ -331,13 +331,15 @@ input button {
 
 /* Media queries */
 
+/* For medium to larger screens size from 1201px wide and up */
+@media screen and (min-width: 1201px) {
+    #image-inner-box {
+     height:230px;
+    }
+}
+
 /* For larger to medium screens size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
-    .box-content {
-    height:fit-content;
-    max-width: 80%;
-    display:block;
-    }
 
     #menu {
         width:100%;
@@ -356,6 +358,20 @@ input button {
         height:100%;
     }
 
+    .box-content {
+        height:fit-content;
+        max-width: 80%;
+        display:block;
+        }
+
+    .box-content-img {
+        max-width:100%;
+    }    
+
+    .img-p {
+        display:block;
+        padding: 15px 20px 15px 20px;
+    }
     #menu li {
         margin-left:2px;
     }
@@ -378,10 +394,5 @@ input button {
     }
 }
 
-/* For medium to larger screens size from 1201px wide and up */
-@media screen and (min-width: 1201px) {
-    #image-inner-box {
-     height:230px;
-    }
-}
+
 
