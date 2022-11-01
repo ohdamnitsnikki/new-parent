@@ -368,6 +368,10 @@ input button {
         display:block;
     }
 
+    .front-photo {
+        margin: 0 auto;
+    }
+
     .social-links {
         padding-left:10px;
     }
