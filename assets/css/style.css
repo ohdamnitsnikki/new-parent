@@ -65,8 +65,8 @@ ul > li > a {
     width: 100%;
     display: block;
     position: relative;
-    background: url('../images/cartoon-forest-landscape.jpg');
-    background-size:contain;
+    background: url('../images/cartoon-forest-landscape.jpg') ;
+    background-size: cover;
     border: 3px solid;
     overflow: hidden;
 }
@@ -174,20 +174,9 @@ header > h1 {
     justify-content: space-between;
 }
 
-#baby-in-nest {
-    height: 100%;
-}
-
-#ultrasound {
-    height: 100%;
-}
-
-#boy-playing {
-    height:100%;
-}
-
-#baby-feet {
-    height:100%;
+.front-photo {
+    height:auto;
+    max-width: 40%;
 }
 
 /*Baby care*/
@@ -361,9 +350,13 @@ input button {
         height:100%;
     }
 
-    #image-outer-box {
+    #image-inner-box {
+        flex-direction: column;
+    }
+
+    .form {
         flex-direction: column;
         column-count: 1;
     }
-
 }
+
