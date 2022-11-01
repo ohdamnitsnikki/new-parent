@@ -228,6 +228,7 @@ hr {
 
 .content-box1, .content-box2 {
     display:flex;
+    justify-content: center;
 
 }
 
