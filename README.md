@@ -43,3 +43,13 @@ Tips and Tricks contain four cards regarding tips that doesn’t go under the su
 ### Subscribe
 
 The subscribe page has a form to get updates on users email when new tips are added. To receive an email the user must enter their first name, email address and enter if they are a parent, pregnant or both.
+
+## Features Left to Implement
+
+On home page I would prefer it to be moving pictures of kids, like giffs or shorter movies. Maybe an audio of some baby laughter.
+
+There should be pictures or videos to all cards with shown content on how to do the specific tip. For example on tips and tricks there is one card telling you to button the body over babies shoulder to make them stay still. It would be more informative with a video showing the tip. Or on the card that mentions white noises it could be a playlist to use.
+
+On the banner image for desktop the train could be pulling the cover text on screen instead of having it pop when the train have passed.
+
+## Testing
