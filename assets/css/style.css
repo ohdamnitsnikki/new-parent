@@ -320,6 +320,11 @@ input[type=submit] {
     background-color: #a9aeae;
   }
 
+  .input {
+    display:block;
+    padding-top: 10px;
+  }
+
 label, input {
     letter-spacing: 4px;
     padding-left: 10px;
