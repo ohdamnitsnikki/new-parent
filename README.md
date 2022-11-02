@@ -65,5 +65,13 @@ New parent is a website filled with tips to simplify the first three months with
 
 ## Testing
 
+1. My page with it's animations and cards appear good on desktop (1201px and up) and also on smaller screens (1200px and below). 
+
+2. Page works good on chrome, firefox, iphone and android. On explorer the pictures in the index file has another width and also the train isn't appearing.
+
+3. All links are tested in each try of diffrent browsers and all opens in a new window.
+
+### Validator Testing
+
 Url for new parent is tested in both [W3C-validator](https://validator.w3.org/) and [W3C-CSS-validaor](http://jigsaw.w3.org/css-validator/validator?lang=sv&profile=css3svg&uri=https%3A%2F%2Fohdamnitsnikki.github.io%2Fnew-parent%2F&usermedium=all&vextwarning=&warning=1)
 
