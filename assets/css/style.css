@@ -311,13 +311,15 @@ input[type=submit] {
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
-    border: none;
+    border: 1px solid black;
     border-radius: 4px;
     cursor: pointer;
   }
 
   input[type=submit]:hover {
-    background-color: #a9aeae;
+    background-color: #b6b9e3;
+    color:black;
+    
   }
 
   .input {
