@@ -151,7 +151,6 @@ header > h1 {
     text-align: center;
     font-size: 200%;
     margin: 0 auto;
-
 }
 
 /*Image section*/
@@ -306,6 +305,21 @@ footer > ul {
 
 }
 
+input[type=submit] {
+    width: 100%;
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+
 label, input {
     letter-spacing: 4px;
     padding-left: 10px;
@@ -395,6 +409,15 @@ input button {
     .social-links {
         padding-left:10px;
     }
+
+    input[type=text], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+      }
 
 }
 
