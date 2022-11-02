@@ -307,7 +307,7 @@ footer > ul {
 
 input[type=submit] {
     width: 100%;
-    background-color: #04AA6D;
+    background-color: #3e4d7692;
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
@@ -317,7 +317,7 @@ input[type=submit] {
   }
 
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #a9aeae;
   }
 
 label, input {
