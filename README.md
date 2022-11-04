@@ -75,3 +75,25 @@ New parent is a website filled with tips to simplify the first three months with
 
 Url for new parent is tested in both [W3C-validator](https://validator.w3.org/) and [W3C-CSS-validaor](http://jigsaw.w3.org/css-validator/validator?lang=sv&profile=css3svg&uri=https%3A%2F%2Fohdamnitsnikki.github.io%2Fnew-parent%2F&usermedium=all&vextwarning=&warning=1)
 
+### Deployment 
+
+**_New Parent_** is deployed to GitHub pages, this was the steps:
+* Through the GitHub repository go to settings
+* Click on pages and use the branch menu to choose "main"
+* Refresh the page and a link to the final project will be deployed
+
+Live link here - [New Parent](https://ohdamnitsnikki.github.io/new-parent/)
+
+* On the main sight there is a fork button to create your own repositry with out affecting the orginal project or you can go into the project file and use the code button and clone the project directly.
+
+## Credits
+
+1. The template is taken from [Code Institute](https://github.com/Code-Institute-Org/gitpod-full-template)
+2. For help during these projects I've used my mentor and the tutors.
+3. To get inspired about box-shadows and subsribe button I've used [W3School](https://www.w3schools.com/)
+4. The Cover-text and form section was inspired by the [Love Running project](https://code-institute-org.github.io/love-running-2.0/index.html)
+
+### Media
+
+* The pictures was mostly found on google and some on [Unsplash](https://unsplash.com/)
+* The Icons are taking from [Font awesome](https://fontawesome.com/icons)
