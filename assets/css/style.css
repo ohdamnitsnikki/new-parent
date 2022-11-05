@@ -279,6 +279,10 @@ p {
     width: 100%;
 }
 
+.must-haves-img-minifom {
+    width:310vh;
+}
+
 /*tips and tricks*/
 
 .box-content img {
@@ -408,7 +412,7 @@ input button {
     }
 
     .must-haves-img-minifom {
-        width: 37%;
+        width: 20%;
         margin: 0 auto;
         display: block;
     }

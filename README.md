@@ -14,6 +14,11 @@ New parent is a website filled with tips to simplify the first three months with
 
 * The navigation bar includes responsive links to home page, baby care, must haves, tips and tricks and subscribe page. 
 * Each link besides the home icon will be underlined when used to show the user which page they are on.
+<img
+  src="assets/images/navigation-bar.PNG"
+  alt="Index desktop" 
+  title="Index desktop"
+  style="display: block; margin: 0 auto; max-width: 600px">
 
 **Element is constant on each page for easy navigation.** 
 
@@ -21,22 +26,42 @@ New parent is a website filled with tips to simplify the first three months with
 
 * The first image shown is a forest with a moving train on it to show the user directly that it's a site regarding kids. 
 * After a few seconds there will be a pop-up window with text, this is to make the user feel encouraged and to secure the parent/parents that whatever they might feel about their new life is normal.  
+<img
+  src="assets/images/landing-img.PNG"
+  alt="Index desktop" 
+  title="Index desktop"
+  style="display: block; margin: 0 auto; max-width: 600px">
 
 **Element is constant on each page for easy navigation.**
 
 ### Header- First three months with a newborn
 
 * The header informs that the information on this site mainly targets the first three months with the baby. 
+<img
+  src="assets/images/header.PNG"
+  alt="Index desktop" 
+  title="Index desktop"
+  style="display: block; margin: 0 auto; max-width: 600px">
 
 **Element is constant on each page for easy navigation.**
 
 ### The Pictures
 
 * The pictures of four babies are added for recognition.
+<img
+  src="assets/images/four-babies.PNG"
+  alt="Index desktop" 
+  title="Index desktop"
+  style="display: block; margin: 0 auto; max-width: 600px">
 
 ### The Footer
 
 * The Footer has navigation links that opens in a new window when used. One to our Facebook page, one for Instagram and one to our Email if you would like to send in a tip, which is also put next to the email icon.
+<img
+  src="assets/images/footer.PNG"
+  alt="Index desktop" 
+  title="Index desktop"
+  style="display: block; margin: 0 auto; max-width: 600px">
 
 **Element is constant on each page for easy navigation.**
 
@@ -47,6 +72,11 @@ New parent is a website filled with tips to simplify the first three months with
 1. First one is about what clothes to preferably buy. 
 2. Second one is how to easier cope and save energy. 
 3. Third one is regarding babies health.
+<img
+  src="assets/images/baby-care.PNG"
+  alt="Index desktop" 
+  title="Index desktop"
+  style="display: block; margin: 0 auto; max-width: 600px">
 
 ### Must Haves
 
