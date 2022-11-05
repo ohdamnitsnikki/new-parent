@@ -15,20 +15,20 @@ New parent is a website filled with tips to simplify the first three months with
 * The navigation bar includes responsive links to home page, baby care, must haves, tips and tricks and subscribe page. 
 * Each link besides the home icon will be underlined when used to show the user which page they are on.
 
-* **asterisks** Element is constant on each page for easy navigation.
+* **Element is constant on each page for easy navigation.** 
 
 ### The landing image
 
 * The first image shown is a forest with a moving train on it to show the user directly that it's a sight regarding kids. 
 * After a few seconds their will pop up a window with text hoping to ensure the parents that what they might be feeling about their new life is normal.  
 
-* **asterisks** Element is constant on each page for easy navigation.
+* **Element is constant on each page for easy navigation.**
 
 ### Header- First three months with a newborn
 
 * The header informs that the information on this sight mainly targets the first three months with the baby. 
 
-* **asterisks** Element is constant on each page for easy navigation.
+* **Element is constant on each page for easy navigation.**
 
 ### The Pictures
 
@@ -38,7 +38,7 @@ New parent is a website filled with tips to simplify the first three months with
 
 * The Footer has navigation links that opens in a new window when used. One to our Facebook page, one for Instagram and one to our email if you would like to send in a tip, which is also put next to the email icon.
 
-* **asterisks** Element is constant on each page for easy navigation.
+* **Element is constant on each page for easy navigation.**
 
 ### Baby Care
 
