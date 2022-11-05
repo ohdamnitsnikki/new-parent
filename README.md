@@ -19,14 +19,14 @@ New parent is a website filled with tips to simplify the first three months with
 
 ### The landing image
 
-* The first image shown is a forest with a moving train on it to show the user directly that it's a sight regarding kids. 
-* After a few seconds their will pop up a window with text hoping to ensure the parents that what they might be feeling about their new life is normal.  
+* The first image shown is a forest with a moving train on it to show the user directly that it's a site regarding kids. 
+* After a few seconds there will be a pop-up window with text, this is to make the user feel encouraged and to secure the parent/parents that whatever they might feel about their new life is normal.  
 
 **Element is constant on each page for easy navigation.**
 
 ### Header- First three months with a newborn
 
-* The header informs that the information on this sight mainly targets the first three months with the baby. 
+* The header informs that the information on this site mainly targets the first three months with the baby. 
 
 **Element is constant on each page for easy navigation.**
 
@@ -36,7 +36,7 @@ New parent is a website filled with tips to simplify the first three months with
 
 ### The Footer
 
-* The Footer has navigation links that opens in a new window when used. One to our Facebook page, one for Instagram and one to our email if you would like to send in a tip, which is also put next to the email icon.
+* The Footer has navigation links that opens in a new window when used. One to our Facebook page, one for Instagram and one to our Email if you would like to send in a tip, which is also put next to the email icon.
 
 **Element is constant on each page for easy navigation.**
 
@@ -44,13 +44,13 @@ New parent is a website filled with tips to simplify the first three months with
 
 * Baby care provides three informational cards. 
 
-1. First one about what clothes to preferably buy. 
-2. Second one to easier cope and save energy. 
-3. Third one regarding babies health.
+1. First one is about what clothes to preferably buy. 
+2. Second one is how to easier cope and save energy. 
+3. Third one is regarding babies health.
 
 ### Must Haves
 
-* Must haves has four informational cards with a heading named after the item you should buy, and linked picture of the item that when clicked opens up a new window showing where you can buy it and a text section telling the user what it’s good for.
+* Must haves has four informational cards with a heading named after the item(s) you should buy, and linked pictures of the item(s) and when clicked the picture opens up a new window showing where you can buy it and a text section telling the user what it’s good for.
 
 <img
   src="assets/images/must-haves-phone.PNG"
@@ -60,7 +60,7 @@ New parent is a website filled with tips to simplify the first three months with
 
 ### Tips and Tricks 
 
-* Tips and Tricks contain four cards regarding tips that doesn’t go under the subject baby care or must haves. 
+* Tips and Tricks contains four cards regarding tips that doesn’t go under the subject baby care or must haves. 
 * Each one have a photo matching the tip.
 
 <img 
@@ -81,15 +81,15 @@ style="display: block; margin: 0 auto; max-width: 600px">
 
 ## Features Left to Implement
 
-1. On home page I would prefer it to be moving pictures of kids, like giffs or shorter movies. Maybe an audio of some baby laughter.
+1. On home page I would prefer it to be moving pictures of kids, like gifs or shorter movies. Maybe an audio of some baby laughter.
 
-2. There should be pictures or videos to all cards with shown content on how to do the specific tip. For example on tips and tricks there is one card telling you to button the body over babies shoulder to make them stay still. It would be more informative with a video showing the tip. Or on the card that mentions white noises it could be a playlist to use.
+2. There should be pictures or videos to all cards with shown content on how to do the specific tip. For example on tips and tricks there is one card telling you to button the body over the babies shoulder to make them stay still. It would be more informative with a video showing the tip. Or on the card that mentions white noises it could be a playlist to use.
 
-3. On the banner image for desktop the train could be pulling the cover text on screen instead of having it pop when the train have passed.
+3. On the banner image for desktop, the train could be pulling the cover text on screen instead of having it pop when the train have passed.
 
 ## Testing
 
-1. My page with it's animations and cards appear good on desktop (1201px and up) and also on smaller screens (1200px and below). 
+1. My page with its animations and cards appear good on desktop (1201px and up) and also on smaller screens (1200px and below). 
 
 2. Page works good on chrome, firefox, iphone and android. On explorer the pictures in the index file has another width and also the train isn't appearing.
 
@@ -108,7 +108,7 @@ Url for new parent is tested in both [W3C-validator](https://validator.w3.org/) 
 
 Live link here - [New Parent](https://ohdamnitsnikki.github.io/new-parent/)
 
-* On the main sight there is a fork button to create your own repositry with out affecting the orginal project or you can go into the project file and use the code button and clone the project directly.
+* On the main site there is a fork button to create your own repository without affecting the orginal project or you could go into the project file and use the code button and clone the project directly.
 
 ## Credits
 
@@ -116,11 +116,11 @@ Live link here - [New Parent](https://ohdamnitsnikki.github.io/new-parent/)
 2. For help during these projects I've used my mentor and the tutors.
 3. To get inspired about box-shadows and subsribe button I've used [W3School](https://www.w3schools.com/)
 4. The Cover-text and form section was inspired by the [Love Running project](https://code-institute-org.github.io/love-running-2.0/index.html)
-5. To understan how to style img in readme file I've used code from [SeanCDavid](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/)
+5. To understand how to style img in readme file I've used code from [SeanCDavid](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/)
 
 ### Media
 
 * All index photos are taken from [Unsplash](https://unsplash.com/) 
 * The forest in the banner is taken from [DreamStime](https://thumbs.dreamstime.com/b/cartoon-forest-landscape-stones-hand-draw-illustration-135774982.jpg)
 * The train is taken from [ClipartKey](https://www.clipartkey.com/search/toy-train/)
-* The Icons are taking from [Font awesome](https://fontawesome.com/icons)
+* The Icons are taken from [Font awesome](https://fontawesome.com/icons)
