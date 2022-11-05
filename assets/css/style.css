@@ -280,7 +280,7 @@ p {
 }
 
 .must-haves-img-minifom {
-    width:310vh;
+    width:10vh;
 }
 
 /*tips and tricks*/
@@ -366,7 +366,7 @@ input button {
     }
 }
 
-/* For larger to medium screens size from 1200px wide and down tablet*/
+/* For larger to medium screens size from 992px wide and down tablet*/
 @media screen and (max-width: 992px) {
 
 
@@ -406,6 +406,7 @@ input button {
     }
 
     .must-haves-img {
+        width: 15%;
         margin: 0 auto;
         display: block;
 
