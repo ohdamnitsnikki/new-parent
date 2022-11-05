@@ -120,5 +120,7 @@ Live link here - [New Parent](https://ohdamnitsnikki.github.io/new-parent/)
 
 ### Media
 
-* The pictures was mostly found on google and some on [Unsplash](https://unsplash.com/)
+* All index photos are taken from [Unsplash](https://unsplash.com/) 
+* The forest in the banner is taken from [DreamStime](https://thumbs.dreamstime.com/b/cartoon-forest-landscape-stones-hand-draw-illustration-135774982.jpg)
+* The train is taken from [ClipartKey](https://www.clipartkey.com/search/toy-train/)
 * The Icons are taking from [Font awesome](https://fontawesome.com/icons)
