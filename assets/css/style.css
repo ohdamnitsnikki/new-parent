@@ -475,4 +475,9 @@ input button {
     .front-photo {
         height: 41vh;
     }
+
+    #menu li {
+        letter-spacing: 2px;
+}
+
 }
