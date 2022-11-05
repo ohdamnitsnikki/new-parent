@@ -309,7 +309,7 @@ footer>ul {
 /*subscribe window*/
 
 .form-section {
-    width: 38%;
+    width: 44%;
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
     padding: 20px;
@@ -461,6 +461,12 @@ input button {
     .front-photo {
         height: 50vh;
         width: 63%;
+    }
+
+    .form-section {
+        width: 79%;
+    
+        margin: 20px auto;
     }
 }
 
