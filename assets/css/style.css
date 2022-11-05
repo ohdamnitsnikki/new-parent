@@ -199,8 +199,9 @@ ul,
 }
 
 hr {
-    border: 1px solid black;
     max-width: 200px;
+    display:block;
+    margin: 5px 0;
   }
 
 .text-section li,
