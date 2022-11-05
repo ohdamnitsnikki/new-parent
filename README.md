@@ -16,9 +16,9 @@ New parent is a website filled with tips to simplify the first three months with
 * Each link besides the home icon will be underlined when used to show the user which page they are on.
 <img
   src="assets/images/navigation-bar.PNG"
-  alt="Index desktop" 
-  title="Index desktop"
-  style="display: block; margin: 0 auto; max-width: 600px">
+  alt="The Navbar" 
+  title="The Navbar"
+  style="display: block; margin: 0 auto; max-width: 500px">
 
 **Element is constant on each page for easy navigation.** 
 
@@ -28,9 +28,9 @@ New parent is a website filled with tips to simplify the first three months with
 * After a few seconds there will be a pop-up window with text, this is to make the user feel encouraged and to secure the parent/parents that whatever they might feel about their new life is normal.  
 <img
   src="assets/images/landing-img.PNG"
-  alt="Index desktop" 
-  title="Index desktop"
-  style="display: block; margin: 0 auto; max-width: 600px">
+  alt="The Banner photo with Cover Text" 
+  title="The Banner photo with Cover Text"
+  style="display: block; margin: 0 auto; max-width: 500px">
 
 **Element is constant on each page for easy navigation.**
 
@@ -39,9 +39,9 @@ New parent is a website filled with tips to simplify the first three months with
 * The header informs that the information on this site mainly targets the first three months with the baby. 
 <img
   src="assets/images/header.PNG"
-  alt="Index desktop" 
-  title="Index desktop"
-  style="display: block; margin: 0 auto; max-width: 600px">
+  alt="The Header" 
+  title="The Header"
+  style="display: block; margin: 0 auto; max-width: 300px">
 
 **Element is constant on each page for easy navigation.**
 
@@ -50,18 +50,18 @@ New parent is a website filled with tips to simplify the first three months with
 * The pictures of four babies are added for recognition.
 <img
   src="assets/images/four-babies.PNG"
-  alt="Index desktop" 
-  title="Index desktop"
-  style="display: block; margin: 0 auto; max-width: 600px">
+  alt="Index photos" 
+  title="Index photos"
+  style="display: block; margin: 0 auto; max-width: 500px">
 
 ### The Footer
 
 * The Footer has navigation links that opens in a new window when used. One to our Facebook page, one for Instagram and one to our Email if you would like to send in a tip, which is also put next to the email icon.
 <img
   src="assets/images/footer.PNG"
-  alt="Index desktop" 
-  title="Index desktop"
-  style="display: block; margin: 0 auto; max-width: 600px">
+  alt="The Footer" 
+  title="The Footer"
+  style="display: block; margin: 0 auto; max-width: 500px">
 
 **Element is constant on each page for easy navigation.**
 
@@ -74,19 +74,19 @@ New parent is a website filled with tips to simplify the first three months with
 3. Third one is regarding babies health.
 <img
   src="assets/images/baby-care.PNG"
-  alt="Index desktop" 
-  title="Index desktop"
-  style="display: block; margin: 0 auto; max-width: 600px">
+  alt="Baby Care information cards" 
+  title="Baby Care information cards"
+  style="display: block; margin: 0 auto; max-width: 500px">
 
 ### Must Haves
 
 * Must haves has four informational cards with a heading named after the item(s) you should buy, and linked pictures of the item(s) and when clicked the picture opens up a new window showing where you can buy it and a text section telling the user what it’s good for.
 
 <img
-  src="assets/images/must-haves-phone.PNG"
-  alt="Must haves phone view" 
-  title="Must Haves phone view"
-  style="display: block; margin: 0 auto; max-width: 200px">
+  src="assets/images/must-haves.PNG"
+  alt="Must haves information cards" 
+  title="Must Haves information cards"
+  style="display: block; margin: 0 auto; max-width: 350x">
 
 ### Tips and Tricks 
 
@@ -94,20 +94,20 @@ New parent is a website filled with tips to simplify the first three months with
 * Each one have a photo matching the tip.
 
 <img 
-src="assets/images/tips-and-tricks-footer-phone.PNG" 
-alt="Tips and Tricks with Footer phone view " 
-title="Tips and Tricks phone view"
-style="display: block; margin: 0 auto; max-width: 200px">
+src="assets/images/tips-and-tricks.PNG" 
+alt="Tips and Tricks information cards" 
+title="Tips and Tricks information cards"
+style="display: block; margin: 0 auto; max-width: 350px">
 
 ### Subscribe
 
 * The subscribe page has a form to get updates on users email when new tips are added. To receive an email the user must enter their first name, email address and enter if they are a parent, pregnant or both.
 
 <img 
-src="assets/images/subscribeform-desktop.PNG" 
-alt="Subsribe desktop" 
-title="Subsribe desktop"
-style="display: block; margin: 0 auto; max-width: 600px">
+src="assets/images/subscribe-form.PNG" 
+alt="Subsribe form" 
+title="Subsribe form"
+style="display: block; margin: 0 auto; max-width: 350px">
 
 ## Features Left to Implement
 
