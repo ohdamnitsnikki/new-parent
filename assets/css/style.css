@@ -198,10 +198,9 @@ ul,
     margin-inline-start: -3px;
 }
 
-span {
-    border: 1px dashed black;
+hr {
+    border: 1px solid black;
     max-width: 200px;
-    display: horizontal;
   }
 
 .text-section li,
