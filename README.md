@@ -3,8 +3,8 @@
 New parent is a website filled with tips to simplify the first three months with a newborn. It targets all parents with a young baby and hopes to make their life easier, both for the baby and the parent/parents. The information will be useful accomplishing eating, stomachaches, putting babies to sleep and much more.
 
 <img src="assets/images/index-desktop.PNG" alt="Index desktop" title="Index desktop">
-<img src="assets/images/must-haves-phone.PNG" alt="Must haves phone view" title="Must Haves phone view">
 <img src="assets/images/subscribe-desktop.PNG" alt="Subsribe desktop" title="Subsribe desktop">
+<img src="assets/images/must-haves-phone.PNG" alt="Must haves phone view" title="Must Haves phone view">
 <img src="assets/images/tips-and-tricks-footer-phone.PNG" alt="Tips and Tricks with Footer phone view " title="Tips and Tricks phone view">
 
 ## Features

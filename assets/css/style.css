@@ -6,7 +6,7 @@
 
 body {
     height: 100vh;
-    width:100%;
+    width: 100%;
     margin: 0;
     overflow-y: scroll;
 }
@@ -21,25 +21,28 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    
+
 }
 
 #menu ul {
     display: flex;
 }
+
 #menu li {
     list-style-type: none;
     letter-spacing: 4px;
-    color:black;
+    color: black;
     display: block;
     margin-left: 100px;
-    
+
 }
-nav div > a {
-    color:#000033;
+
+nav div>a {
+    color: #000033;
 }
-ul > li > a {
-    color:#000033;
+
+ul>li>a {
+    color: #000033;
 }
 
 #menu a {
@@ -65,11 +68,12 @@ ul > li > a {
     width: 100%;
     display: block;
     position: relative;
-    background: url('../images/cartoon-forest-landscape.jpg') ;
+    background: url('../images/cartoon-forest-landscape.jpg');
     background-size: cover;
     border: 3px solid;
     overflow: hidden;
 }
+
 div #toy-image {
     display: block;
     position: absolute;
@@ -77,22 +81,24 @@ div #toy-image {
     background: url('../images/train-header.png') no-repeat center center;
     background-size: contain;
     height: 200px;
-    bottom: 0;  
+    bottom: 0;
     width: 600px;
-    
+
 }
+
 /*animation*/
 @keyframes moveTrain {
-    from  {
-       transform: translateX(100vw);
+    from {
+        transform: translateX(100vw);
 
     }
+
     to {
-        transform:translateX(0%);
+        transform: translateX(0%);
     }
 }
 
-#cover-text  {
+#cover-text {
     width: 20%;
     height: fit-content;
 
@@ -102,7 +108,7 @@ div #toy-image {
     box-shadow: 0px 0px 8px 1px #888888d9;
 
     background-color: rgba(255, 255, 255, 0.841);
-    animation:fadeIn 3s forwards;
+    animation: fadeIn 3s forwards;
     animation-delay: 7s;
     opacity: 0;
     top: 8px;
@@ -111,26 +117,28 @@ div #toy-image {
     position: absolute;
 
 }
+
 /*animation*/
 
 @keyframes fadeIn {
     from {
         opacity: 0;
     }
+
     to {
         opacity: 1;
     }
 
 }
 
-#cover-text > h3 {
-    color:#000033;
+#cover-text>h3 {
+    color: #000033;
     text-transform: uppercase;
 
 }
 
-#cover-text > p {
-    color:#000033;
+#cover-text>p {
+    color: #000033;
 
 }
 
@@ -143,7 +151,8 @@ header {
     padding: 15px 20px 15px 20px;
     background-color: rgba(255, 255, 255, 0.841);
 }
-header > h1 {
+
+header>h1 {
     width: 100%;
     flex: 1 0 auto;
     text-align: center;
@@ -154,34 +163,37 @@ header > h1 {
 /*Image section*/
 /*Change locations on images later*/
 
-#image-outer-box {	
-    width: 100%;	
-}	
-#image-inner-box {	
-    background-color: rgba(255, 255, 255, 0.841);	
-    	
-    width: 100%;	
-    padding: 15px 20px 15px 20px; 	
-    display: flex;	
-    justify-content: space-between;
+#image-outer-box {
+    width: 100%;
+}
+
+#image-inner-box {
+    background-color: rgba(255, 255, 255, 0.841);
+    width: 100%;
+    padding: 15px 20px 15px 20px;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .front-photo {
-    height:auto;
-    max-width: 50%;
-    display:block;
+    height: auto;
+    width: 100%;
+    height: 25vh;
+    display: block;
 }
 
 /*Baby care*/
 
 .text-section {
-    height:fit-content;
+    height: fit-content;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.841);
-    
+
 }
 
-ul, .text-section p {
+ul,
+.text-section p {
     padding-inline-start: 25px;
     padding-inline-end: 10px;
     margin-inline-start: -3px;
@@ -189,26 +201,27 @@ ul, .text-section p {
 
 hr {
     max-width: 200px;
-    display:block;
+    display: block;
     margin: 5px 0;
 }
 
-.text-section  li, p {
+.text-section li,
+p {
     list-style-type: none;
     letter-spacing: 4px;
-    color:black;
+    color: black;
     display: block;
 }
 
 .box-content {
-    height:auto;
-    max-width:25%;
+    height: auto;
+    max-width: 25%;
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
     margin: 40px;
     box-shadow: 0px 0px 8px 1px #888888d9;
     padding: 15px 20px 15px 20px;
-    
+
 }
 
 .box-content h3 {
@@ -223,8 +236,9 @@ hr {
     line-height: 1.3;
 }
 
-.content-box1, .content-box2 {
-    display:flex;
+.content-box1,
+.content-box2 {
+    display: flex;
     justify-content: center;
 
 }
@@ -244,25 +258,26 @@ hr {
     padding-right: 2px;
 }
 
-.img-p > p {
+.img-p>p {
     margin-left: 15px;
 }
 
-.box-content-img > a {
+.box-content-img>a {
     text-decoration: none;
-  
+
 }
 
-#must-haves > h3 {
+#must-haves>h3 {
     display: flex;
 }
-.box-content-img > p {
+
+.box-content-img>p {
     letter-spacing: 4px;
 
 }
 
 .must-haves-img {
-    width:100%;
+    width: 100%;
 }
 
 /*tips and tricks*/
@@ -271,6 +286,7 @@ hr {
     width: 70%;
     padding-left: 28%;
 }
+
 /*Footer and social links*/
 
 footer {
@@ -279,14 +295,14 @@ footer {
     background-color: #D3D3D3;
 }
 
-footer > ul {
+footer>ul {
     font-size: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: oblique;
-    list-style-type: none; 
+    list-style-type: none;
     display: flex;
     margin-left: 20px;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
     padding: 25px 20px 15px 20px;
 
 }
@@ -294,7 +310,7 @@ footer > ul {
 /*subscribe window*/
 
 .form-section {
-    width:100%;
+    width: 100%;
     flex: 1 0 auto;
     background-color: rgba(133, 114, 114, 0.24);
     padding: 20px;
@@ -311,23 +327,24 @@ input[type=submit] {
     border: 1px solid black;
     border-radius: 4px;
     cursor: pointer;
-  }
+}
 
-  input[type=submit]:hover {
+input[type=submit]:hover {
     background-color: #b6b9e3;
-    color:black;
-    
-  }
+    color: black;
 
-  .input {
-    display:block;
+}
+
+.input {
+    display: block;
     padding-top: 10px;
-  }
+}
 
-label, input {
+label,
+input {
     letter-spacing: 4px;
     padding-left: 10px;
-    
+
 }
 
 input button {
@@ -341,44 +358,52 @@ input button {
 /* For medium to larger screens size from 1201px wide and up */
 @media screen and (min-width: 1201px) {
     #image-inner-box {
-     height:230px;
+        height: 230px;
     }
 }
 
-/* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1200px) {
+/* For larger to medium screens size from 1200px wide and down tablet*/
+@media screen and (max-width: 992px) {
+
+
+    #image-inner-box {
+        grid-template-columns: 1fr 1fr;
+        gap: 10px;
+    }
+
 
     #menu {
-        width:100%;
-        height:fit-content;
-        display:flex;
+        width: 100%;
+        height: fit-content;
+        display: flex;
         justify-content: space-evenly;
     }
 
     #cover-text {
-        width:70%;
-        right:10px;
+        width: 70%;
+        right: 10px;
     }
 
     #toy-container {
-        width:fit-content;
-        height:100%;
+        width: fit-content;
+        height: 100%;
     }
 
     .box-content {
-        height:fit-content;
+        height: fit-content;
         max-width: 80%;
-        display:block;
-        }
+        display: block;
+        margin: 45px auto;
+    }
 
     .box-content-img {
-        max-width:100%;
-        
-    }    
+        max-width: 100%;
+
+    }
 
     .must-haves-img {
         margin: 0 auto;
-        display:block;
+        display: block;
 
     }
 
@@ -389,42 +414,52 @@ input button {
     }
 
     .img-p {
-        display:block;
+        display: block;
         padding: 15px 20px 15px 20px;
     }
 
     #menu li {
-        margin-left:2px;
+        margin-left: 2px;
     }
 
-    .content-box1, .content-box2 {
-        display:block;
-    
+    .content-box1,
+    .content-box2 {
+        display: block;
+
     }
 
-    #image-inner-box {
-        display:block;
-    }
 
     .front-photo {
         margin: 0 auto;
     }
 
     .social-links {
-        padding-left:10px;
+        padding-left: 10px;
     }
 
-    input[type=text], select {
+    input[type=text],
+    select {
         width: 100%;
         padding: 12px 20px;
         margin: 8px 0;
         display: inline-block;
         border: 2px solid #ccc;
         border-radius: 4px;
-      }
+    }
 
 }
 
 
+/* large mobile devices */
+@media screen and (max-width: 768px) {
+    #image-inner-box {
+        grid-template-columns: 1fr;
+    }
 
+    .front-photo {
+        height: 50vh;
+    }
+}
 
+/* small mobile devices */
+@media screen and (max-width: 600px) {}
