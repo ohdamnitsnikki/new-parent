@@ -116,6 +116,7 @@ Live link here - [New Parent](https://ohdamnitsnikki.github.io/new-parent/)
 2. For help during these projects I've used my mentor and the tutors.
 3. To get inspired about box-shadows and subsribe button I've used [W3School](https://www.w3schools.com/)
 4. The Cover-text and form section was inspired by the [Love Running project](https://code-institute-org.github.io/love-running-2.0/index.html)
+5. To understan how to style img in readme file I've used code from [SeanCDavid](https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/)
 
 ### Media
 
