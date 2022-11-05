@@ -6,7 +6,7 @@ New parent is a website filled with tips to simplify the first three months with
   src="assets/images/index-desktop.PNG"
   alt="Index desktop" 
   title="Index desktop"
-  style="display: inline-block; max-width: 600px">
+  style="display: block; margin: 0 auto; max-width: 600px">
 
 ## Features
 
@@ -56,7 +56,7 @@ New parent is a website filled with tips to simplify the first three months with
   src="assets/images/must-haves-phone.PNG"
   alt="Must haves phone view" 
   title="Must Haves phone view"
-  style="display: inline-block; max-width: 200px">
+  style="display: block; margin: 0 auto; max-width: 200px">
 
 ### Tips and Tricks 
 
@@ -67,7 +67,7 @@ New parent is a website filled with tips to simplify the first three months with
 src="assets/images/tips-and-tricks-footer-phone.PNG" 
 alt="Tips and Tricks with Footer phone view " 
 title="Tips and Tricks phone view"
-style="display: inline-block; max-width: 200px">
+style="display: block; margin: 0 auto; max-width: 200px">
 
 ### Subscribe
 
@@ -77,7 +77,7 @@ style="display: inline-block; max-width: 200px">
 src="assets/images/subscribeform-desktop.PNG" 
 alt="Subsribe desktop" 
 title="Subsribe desktop"
-style="display: inline-block; max-width: 300px">
+style="display: block; margin: 0 auto; max-width: 600px">
 
 ## Features Left to Implement
 
