@@ -2,10 +2,11 @@
 
 New parent is a website filled with tips to simplify the first three months with a newborn. It targets all parents with a young baby and hopes to make their life easier, both for the baby and the parent/parents. The information will be useful accomplishing eating, stomachaches, putting babies to sleep and much more.
 
-<img src="assets/images/index-desktop.PNG" alt="Index desktop" title="Index desktop">
-<img src="assets/images/subscribe-desktop.PNG" alt="Subsribe desktop" title="Subsribe desktop">
-<img src="assets/images/must-haves-phone.PNG" alt="Must haves phone view" title="Must Haves phone view">
-<img src="assets/images/tips-and-tricks-footer-phone.PNG" alt="Tips and Tricks with Footer phone view " title="Tips and Tricks phone view">
+<img
+  src="assets/images/index-desktop.PNG"
+  alt="Index desktop" 
+  title="Index desktop"
+  style="display: inline-block; margin: 0 auto; max-width: 500px">
 
 ## Features
 
@@ -51,14 +52,32 @@ New parent is a website filled with tips to simplify the first three months with
 
 * Must haves has four informational cards with a heading named after the item you should buy, and linked picture of the item that when clicked opens up a new window showing where you can buy it and a text section telling the user what it’s good for.
 
+<img
+  src="assets/images/must-haves-phone.PNG"
+  alt="Must haves phone view" 
+  title="Must Haves phone view"
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
+
 ### Tips and Tricks 
 
 * Tips and Tricks contain four cards regarding tips that doesn’t go under the subject baby care or must haves. 
 * Each one have a photo matching the tip.
 
+<img 
+src="assets/images/tips-and-tricks-footer-phone.PNG" 
+alt="Tips and Tricks with Footer phone view " 
+title="Tips and Tricks phone view"
+style="display: inline-block; margin: 0 auto; max-width: 200px">
+
 ### Subscribe
 
 * The subscribe page has a form to get updates on users email when new tips are added. To receive an email the user must enter their first name, email address and enter if they are a parent, pregnant or both.
+
+<img 
+src="assets/images/subscribe-desktop.PNG" 
+alt="Subsribe desktop" 
+title="Subsribe desktop"
+style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## Features Left to Implement
 
